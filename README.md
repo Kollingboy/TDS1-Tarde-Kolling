@@ -6,3 +6,5 @@ primeira aula de github de cladinas
 . git clone <camino do repositorio>
 
 batata
+
+teste
