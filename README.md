@@ -8,3 +8,5 @@ primeira aula de github de cladinas
 .git add -> adiciona todos os arquivos
 .git commit -m "nome da ação" -> rastreio da ação de desenvolvimento
 .git push -> empurra pra nuvem as alteraç~~oes, alinha o projeto local e remoto
+
+# pirmeira aula lógica em javascript
