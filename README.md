@@ -1,6 +1,9 @@
 # TDS1-Tarde-Kolling
 primeira aula de github de cladinas
 
-# primeira aula de git
+git status -> ve as alterções
+git add . -> adiciona as extenções
+git commit -m "colocar nome"
+git push -> guarda as informações na nuvem
 
-Logica de Programação
+02-08-2024 Logica de Programação
