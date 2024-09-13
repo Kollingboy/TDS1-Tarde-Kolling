@@ -1,5 +1,5 @@
 # TDS1-Tarde-Kolling
-primeira aula de github de cladinas
+Meus codigos enquanto faço o curso tecnico
 
 git status -> ve as alterções
 git add . -> adiciona as extenções
