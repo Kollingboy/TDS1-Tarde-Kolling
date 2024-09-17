@@ -24,4 +24,6 @@ int main (){
 
     printf("Seu nome e:%s\nseu endereco e:%s\nsua idade e:%d", strtok(informacoes.nome, "\n"), strtok(informacoes.end, "\n"), informacoes.idade);
 
+
+return 0;
 }
