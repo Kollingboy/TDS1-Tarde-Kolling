@@ -27,9 +27,9 @@ int main (){
 
     for (int i = 0; i < 10; i++){
 
-        printf(" | %d |  ", vetor [i]);
+        printf(" | %d |  ", vetor [i]);// coloca o resultado.
 
     }
 
-    return 0;
+    return 0;// encerra a execução de uma função e retorna o controle para a função de chamada.
 }
