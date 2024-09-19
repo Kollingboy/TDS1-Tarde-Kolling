@@ -18,7 +18,7 @@ void bubble_sort (int vetor [], int tam){// variavel auxiliar.
     }
 }
 
-int main (){
+int main (){// aqui é o codigo principal (em tradução literal "menu", a base) do codigo.
 
     
     int vetor [10] = {10,9,8,7,6,5,4,3,2,1};
